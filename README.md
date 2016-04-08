@@ -1,4 +1,4 @@
-#Connect-4
+#Connect Four
 ###Desiged by: Horatiu Lazu
 
 ##Features:
@@ -9,3 +9,5 @@
 * Hoverable menu item effects
 * Code documentation
 * Procedural programming conventions
+
+![Screenshot](http://www.horatiulazu.ca/software/images/Connect4ZoomedIn.png "Screenshot")
