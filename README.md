@@ -1,7 +1,7 @@
-#Connect-Four
-###Desiged by: Horatiu Lazu
+# Connect-Four
+### Desiged by: Horatiu Lazu
 
-##Features:
+## Features:
 * Play a simple game of connect-four
 * Simple animations and graphics done with draw commands
 * Simple array processing
@@ -11,5 +11,5 @@
 * Procedural programming conventions
 * Coded in Turing language
 
-##Screenshot:
+## Screenshot:
 ![Screenshot](http://www.horatiulazu.ca/software/images/Connect4ZoomedIn.png "Screenshot")
